@@ -1,0 +1,5 @@
+# MONGODB URI
+DB_URI="mongodb://root:kn1gh7-fever@127.0.0.1:27017/test?authSource=admin"
+DB_NAME="test"
+DB_COLLECTION_NAME="todolist"
+
